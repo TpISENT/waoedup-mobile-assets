@@ -1,0 +1,15 @@
+#004f7a - Dark Blue
+#a2c2da - light blue
+#494949 - dark grey
+#ededed - light grey
+
+
+Company Contact Information to be reflected in code
+TpISENT (SL) Limited
+13 Hill Cot Road
+Brookfields, Freetown
+Sierra Leone
++232 (76) 617550
++ 1 (212) 710 2911
+info@tpisent.com
+Https://tpisent.com
